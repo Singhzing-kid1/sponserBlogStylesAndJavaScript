@@ -239,7 +239,7 @@ font: normal 16px/1.2em 'Patua One', georgia;
   top: 5vh;
 }
 
-ul.post-header-line-1 li.date-header {
+li.date-header {
 width: 70px;
 height: 70px;
 border-radius: 1000px;
@@ -248,14 +248,14 @@ background: #fff;
 overflow: hidden;
 margin-bottom: 40px;
 }
-ul.post-header-line-1 li.date-header span {
+li.date-header span {
 padding-top: 15px;
 display: block;
 }
 li.date-header .day {
 font-size: 24px;
 }
-ul.post-header-line-1 li.post-author {
+li.post-author {
 background: url(https://placehold.co/45);
 width: 45px;
 height: 45px;
