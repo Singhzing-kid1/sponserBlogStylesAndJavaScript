@@ -163,6 +163,18 @@ justify-content: center;
 align-content: center;
 float: left;
 }
+
+.page-links{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+}
+
+.page-links li {
+  flex-grow: 1;
+}
+
 .navigation h2 {
 display: none;
 }
