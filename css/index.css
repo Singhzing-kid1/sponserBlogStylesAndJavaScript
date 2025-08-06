@@ -509,6 +509,7 @@ width: 100%;
 color: #ddd;
 font-size: 12px;
 line-height: 1.6em;
+display: none;
 }
 .footer-widget .grid {
 margin-right: -7%;
