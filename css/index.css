@@ -232,6 +232,7 @@ position: absolute;
 left: 0;
 top: 0;
 font: normal 16px/1.2em 'Patua One', georgia;
+height: 100%;
 }
 
 .stick{
@@ -247,6 +248,9 @@ border: 5px solid #ddd;
 background: #fff;
 overflow: hidden;
 margin-bottom: 40px;
+position: sticky;
+top: 5vh;
+z-index: 1;
 }
 li.date-header span {
 padding-top: 15px;
@@ -263,6 +267,8 @@ margin: 0 auto;
 border-radius: 50px;
 border: 5px solid #ddd;
 overflow: hidden;
+position: sticky;
+top: 26vh;
 }
 ul.post-header-line-1 li.commenting {
 background: #fff;
