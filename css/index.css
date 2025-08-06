@@ -109,7 +109,7 @@ Width
 .navigation .navi,
 .footer-widget {
 margin: 0 auto;
-width: 80%; /* easter egg, you found it! */
+width: 60vw; /* easter egg, you found it! */
 }
 /*------------------------------------------------------
 Header
@@ -154,7 +154,9 @@ color: #fff;
 .navigation {
 background: #444;
 border-bottom: 5px solid #ddd;
-width: 5vw;
+width: 10vw;
+margin-left: 5vw;
+margin-top: 5vh;
 position: sticky;
 top: 0;
 display: flex;
