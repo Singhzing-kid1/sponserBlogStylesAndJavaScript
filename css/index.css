@@ -593,7 +593,7 @@ color: #fff;
 color: #ddd
 }
 
-#jbox-modal {
+.jBox-wrapper{
   width: 90vw;
   height: 90vh;
 }
