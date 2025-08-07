@@ -592,3 +592,9 @@ color: #fff;
 .credit a:hover {
 color: #ddd
 }
+
+#jbox-modal {
+  width: 90vw;
+  height: 90vh;
+}
+
