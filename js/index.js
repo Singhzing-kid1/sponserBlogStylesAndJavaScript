@@ -40,3 +40,9 @@ $(document).ready(function () {
         });
     }
 });
+
+
+$('.navLink').on('click', function(e) {
+    $('.navLink').removeClass('active');
+    $(this).addClass('active');
+});
