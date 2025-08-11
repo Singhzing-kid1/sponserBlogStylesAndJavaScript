@@ -599,6 +599,6 @@ color: #ddd
 }
 
 .active{
-color: #f00
+color: #f00 !important;
 }
 
