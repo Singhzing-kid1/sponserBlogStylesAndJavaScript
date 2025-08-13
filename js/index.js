@@ -39,10 +39,15 @@ $(document).ready(function () {
             }).open();
         });
     }
-});
 
-
-$('.navLink').on('click', function(e) {
-    $('.navLink').removeClass('active');
-    $(this).addClass('active');
+    currentLoc = $(location).attr('href');
+    
+    $('.navLink').each(function () {
+        if($(this).attr('href') === currentLoc){
+            $(this).addClass('active');
+        } else {
+            $(this).removeClass('active');
+        }
+    });
+    
 });
