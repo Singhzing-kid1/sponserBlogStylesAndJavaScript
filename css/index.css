@@ -299,8 +299,8 @@ left: 110px;
 }
 .hentry {
 padding: 20px 20px 0;
-border: 1px solid #ddd;
-box-shadow: 0 0 3px #ddd;
+border: 1px solid #d9f7a1;
+box-shadow: 0 0 3px #d9f7a1;
 }
 .hentry h3.post-title {
 margin-bottom: 20px;
@@ -378,8 +378,8 @@ padding-bottom: 10px;
 * Post footer
 */
 .post-footer {
-background: #e0f8b4;
-border-top: 1px solid #eee;
+background: #bbce8a;
+border-top: 1px solid #abc36f;
 margin-top: 20px;
 padding: 20px;
 margin-left: -20px;
