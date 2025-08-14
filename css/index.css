@@ -65,18 +65,18 @@ table { border-collapse: collapse; border-spacing: 0}
 Global
 ------------------------------------------------------*/
 body {
-background: #f2f2f2 url(//3.bp.blogspot.com/-Uya1ccfaLO0/USgCfg-jhRI/AAAAAAAAAGI/lg1uoESwIYU/s000/body.png) repeat fixed top center;
+background: #e2f9b8 url(//3.bp.blogspot.com/-Uya1ccfaLO0/USgCfg-jhRI/AAAAAAAAAGI/lg1uoESwIYU/s000/body.png) repeat fixed top center;
 font: normal normal 14px/1.6em 'helvetica neue', helvetica, arial, sans-serif;
-color: #555555;
+color: #424651;
 }
 a {
-color: #777;
+color: #424651;
 }
 a:visited {
-color: #777777;
+color: #424651;
 }
 a:hover {
-color: #eb5151;
+color: #bbce8a;
 }
 .left {float:left}
 .right {float:right}
@@ -115,7 +115,7 @@ width: 60%; /* easter egg, you found it! */
 Header
 ------------------------------------------------------*/
 .header-wrapper {
-background-color: #6a5b77;
+background-color: #939f5c;
 background-image: url(//4.bp.blogspot.com/--IyFdlRN9QQ/USgCf79KCsI/AAAAAAAAAGQ/8miGpNIJhEY/s000/header.png);
 background-repeat: no-repeat;
 background-position: center center;
