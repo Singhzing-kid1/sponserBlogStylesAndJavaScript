@@ -195,7 +195,7 @@ text-shadow: 1px 1px 0 #000;
 text-decoration: none;
 }
 .navi ul li a:hover {
-color: #afd95b;
+color: #b0b4bf;
 }
 .navi ul li.selected {
 background: #7cc237;
@@ -240,7 +240,6 @@ width: 70px;
 height: 70px;
 border-radius: 1000px;
 border: 5px solid #ddd;
-background: #fff;
 overflow: hidden;
 margin-bottom: 40px;
 position: sticky;
@@ -299,7 +298,6 @@ top: 25px;
 left: 110px;
 }
 .hentry {
-background: #fff;
 padding: 20px 20px 0;
 border: 1px solid #ddd;
 box-shadow: 0 0 3px #ddd;
@@ -314,7 +312,6 @@ border-bottom: 1px solid #eee;
 .hentry h3.post-title a,
 .hentry h3.post-title a:visited {
 font: normal normal 24px 'Patua One', Oswald;
-color: #444444;
 text-decoration: none;
 }
 .hentry .post-body p {
@@ -341,7 +338,6 @@ margin-right: 30px;
 text-align: center;
 }
 .hentry .post-body pre {
-background: #f2f2f2;
 border: none;
 border-top: 3px solid #777;
 }
@@ -382,7 +378,7 @@ padding-bottom: 10px;
 * Post footer
 */
 .post-footer {
-background: #f9f9f9;
+background: #e0f8b4;
 border-top: 1px solid #eee;
 margin-top: 20px;
 padding: 20px;
@@ -503,7 +499,7 @@ Widget Area
 ------------------------------------------------------*/
 .footer-wrapper {
 border-top: 5px solid #ddd;
-background: #444;
+background: #939f5c;
 padding: 40px 0 30px;
 width: 100%;
 color: #ddd;
@@ -577,7 +573,7 @@ Credit
 ------------------------------------------------------*/
 footer.credit {
 border-top: 1px dashed #444;
-background-color: #6a5b77;
+background-color: #939f5c;
 background-image: url(//4.bp.blogspot.com/--IyFdlRN9QQ/USgCf79KCsI/AAAAAAAAAGQ/8miGpNIJhEY/s000/header.png);
 background-repeat: no-repeat;
 background-position: center center;
@@ -599,6 +595,6 @@ color: #ddd
 }
 
 .active{
-color: #BBB !important;
+color: #d16014 !important;
 }
 
